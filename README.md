@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I’m Reza </h1>
 <h3 align="center">A passionate front-end developer and Cyber Security</h3>
-- 😆 I'm trying to understand Linux
-- 👀 I’m interested in technology
-- ⚡ Fun fact: i like to eat
+
+- 😆 I'm trying to understand Linux <br>
+- 👀 I’m interested in technology <br>
+- ⚡ Fun fact: i like to eat <br>
 
 ![](https://komarev.com/ghpvc/?username=RezaAS14&style=flat-square)
 
